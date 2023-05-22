@@ -5,6 +5,7 @@
 ## Pendahuluan
 
 * [Persiapan](pendahuluan/persiapan.md)
+* [Tentang Swift](pendahuluan/tentang-swift.md)
 
 ## Swift
 
